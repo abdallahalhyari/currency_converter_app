@@ -5,7 +5,7 @@
 <img src="Screenshots/b7425c1b-09d5-4e64-a2fb-3b186d2d394f.jpg" width="200">
 </p>
 
-# Currency Flow
+# Currency 
 
 A currency converter flutter app.
 
