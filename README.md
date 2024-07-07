@@ -18,6 +18,7 @@ A currency converter flutter app.
 
 
 API used - https://free.currencyconverterapi.com
+flags icons - https://flagcdn.com/
 
 Packeages used -
 
